@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555340373559",
+    "project_id": "notezone",
+    "storage_bucket": "notezone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555340373559:android:6ead158ba357834b7ce9b2",
+        "android_client_info": {
+          "package_name": "de.notezone.notezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555340373559-9v75aqu4j6vosl31mmb6590b2bpt14nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmYnjOYD0tIKdAkl8OqeRnsKyJpzwrAbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555340373559-9v75aqu4j6vosl31mmb6590b2bpt14nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

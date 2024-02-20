@@ -1,16 +1,9 @@
-# notezone
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_Splash](screenshots/Screenshot_1708441417.png)
+![Screenshot_Login](screenshots/Screenshot_1708441491.png)
+![Screenshot_Register](screenshots/Screenshot_1708441506.png)
+![Screenshot_Dashboard](screenshots/Screenshot_1708441841.png)
+![Screenshot_Notes](screenshots/Screenshot_1708441868.png)
+![Screenshot_Create_Note](screenshots/Screenshot_1708441874.png)
+![Screenshot_Calendar](screenshots/Screenshot_1708441916.png)
+![Screenshot_Calendar_Entry](screenshots/Screenshot_1708441896.png)
+![Screenshot_Todo_List](screenshots/Screenshot_1708441926.png)
